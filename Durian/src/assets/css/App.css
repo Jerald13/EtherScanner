@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap");
+body {
+    font-family: "DM Sans", sans-serif;
+}
+
+option {
+    color: black;
+}
+
+g {
+    display: none;
+}
+
+.css-sl61el {
+    display: none !important;
+}
+
+.css-1wqlu6z {
+    display: none !important;
+}
+
+.css-892zhy {
+    display: none !important;
+}
+
+.css-twhw4q {
+    margin: auto !important;
+    margin-right: 300px !important;
+}
+@media only screen and (min-width: 1200px) {
+    .css-zacs53 {
+        padding-top: 202px !important;
+        margin-right: 202px !important;
+    }
+}
+
+ol.chakra-breadcrumb__list.css-0 {
+    display: none;
+}
+
+a.chakra-link.css-jw2vrk {
+    display: none;
+}
+
+.css-c7pw8z {
+    display: none;
+}
